@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_article.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_book.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_book_note.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_category.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_recommend.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_menu.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_param.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_role.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_role_menu.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_sys_user_role.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_tag.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dbblog-backend/db/dbblog_tag_link.sql" dialect="MySQL" />
+  </component>
+</project>
